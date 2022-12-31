@@ -49,11 +49,11 @@ Here's a quick screen recording of the expected result:
 
 **Acceptance Criteria:**
 
-- Create a new component.
+- ✔️ Create a new component.
   - (Don't forget, you can use an NPM script to generate the scaffolding for you!)
-- This component should render a `<form>` tag, including a label and a text input.
-- The text input should be controlled by React state.
-- **The user's input should be converted to ALL UPPERCASE.** No lower-case letters allowed.
+- ✔️ This component should render a `<form>` tag, including a label and a text input.
+- ✔️ The text input should be controlled by React state.
+- ✔️ **The user's input should be converted to ALL UPPERCASE.** No lower-case letters allowed.
 - The input should have a minimum and maximum length of 5.
 - When the form is submitted:
   - The entered value should be logged to the console (for now)
